@@ -1,2 +1,2 @@
 # DIT
-All WHS DIT projects 
+All of my WHS DIT projects 
